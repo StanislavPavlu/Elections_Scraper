@@ -122,7 +122,7 @@ print(f"{hvezdy} TABULKA \"{sys.argv[2]}\" JE PŘIPRAVENA {hvezdy}\n{cara}")
 if __name__ == '__main__':
     main()
 
-# Ukázky spouštění s argumenty z příkazového řádku - územní okrsky Praha a Praha-západ:
+# Ukázky spouštění s argumenty z příkazového řádku - územní celky Praha a Praha-západ:
 # python Elections_Scraper.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=1&xnumnuts=1100' 'vysledky_praha.csv'
 # python Elections_Scraper.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2110' 'vysledky_praha_zapad.csv'
 
