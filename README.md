@@ -44,7 +44,7 @@ Seznam všech územních celků na výběr, s možností prokliknutí na detail 
        např: vysledky_benesov.csv
 
 ## Běh programu:
-Po spuštění program vypisuje jednotlivé řádky souboru csv ve formě slovníků se scrapovanými daty. Každý slovník (řádek vznikajícího souboru csv) představuje data jedné obce vybraného územního celku. Klíče slovníku tvoří záhlaví souboru csv. Po dokončení scrapování program vypíše oznámení, že výsledky jsou připraveny v souboru csv. Vzniklý soubor csv je pak možné otevřít např. v Excelu, kde lze také scrapovaná data prostřednictvím průvodce importovat do graficky přehledného souboru xlsx (Data -> Načíst a transformovat data -> z Text/CSV).
+Po spuštění program vypisuje do terminálu jednotlivé řádky souboru csv ve formě slovníků se scrapovanými daty. Každý slovník (řádek vznikajícího souboru csv) představuje data jedné obce vybraného územního celku. Klíče slovníku tvoří záhlaví souboru csv. Po dokončení scrapování program vypíše oznámení, že výsledky jsou připraveny v souboru csv. Vzniklý soubor csv je pak možné otevřít např. v Excelu, kde lze také scrapovaná data prostřednictvím průvodce importovat do graficky přehledného souboru xlsx (Data -> Načíst a transformovat data -> z Text/CSV).
 
 ## Příklady:
 
